@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/zbetcheckin/Security_list)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 # Random User Generator
 
 This project is a simple web application that generates random user data using the Random User Generator API. It displays the generated user's information such as name, email, age, street address, and phone number. Users can also add generated users to a list.
