@@ -8,6 +8,8 @@ This project is a simple web application that generates random user data using t
 - Fetch API
 - SweetAlert2
 - Random User Generator API
+- CSS
+
 
 ## How to Run
 
