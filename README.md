@@ -33,7 +33,3 @@ This project is a simple web application that generates random user data using t
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions or would like to report any issues, please feel free to submit a pull request or open an issue on the project's repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
